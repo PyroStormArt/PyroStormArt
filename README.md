@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PyroStormArt
-- 👀 I’m interested in Chess, Self-Development, Books, Programming, Science.
-- 🌱 I’m currently learning Python, Money management, Olympiades.
+- 👀 I’m interested in Languages, Self-Development, Money, Programming and Science (most things I like included in Self-Development)
+- 🌱 I’m currently learning Russian, German and Spanish.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kubinashina17@gmail.com
 
